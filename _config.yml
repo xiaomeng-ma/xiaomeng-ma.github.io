@@ -30,8 +30,8 @@ plugins:
 
 ### Phantom settings
 paginate: 10
-#footer_text: '© 2019 Xiaomeng Ma'
-#admin_name: 'Xiaomeng Ma'
+footer_text: ''
+admin_name: ''
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
