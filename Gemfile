@@ -1,5 +1,9 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 gemspec
-gem "jekyll", "~> 4.0.0"
+gem 'jekyll-feed'
+gem 'redcarpet'
+
+group :jekyll_plugins do
+  gem 'jekyll-livereload'
+  gem 'jekyll-last-modified-at'
+end
