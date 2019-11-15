@@ -16,7 +16,7 @@ In syntax, I am working with applicative structure and my general research quest
 I also have experience in experimental methods, such as eye-tracking, EEG, fMRI and behavioral tests with young children. 
 </p>
 <p>
-  Here is an updated version of my <a href = "./Ershui13/xiaomeng-ma.github.io/My_CV_full.pdf" download>CV</a>.</p>.
+  Here is an updated version of my <a href = "My_CV_full.pdf" download>CV</a>.</p>.
 
 <br/>
 <hr/>
