@@ -7,23 +7,26 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+In language acquisition, I am trying to understand to what extent is the syntactical structure of a language can be aquired through statistical learning. My approach is to apply machine learning and neural network techniques to corpora of child-adult verbal interaction on <a href="https://childes.talkbank.org/" style="color:red">CHILDES</a>. </p>
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+<p>
+In syntax, I am working with applicative structure and my general research question is why do some languages don't have double object construction. I have worked with Mandarin Chinese and <a href="https://en.wikipedia.org/wiki/Bamum_language" style="color:red">Shupamem</a>.</p>
 
+<p>
+I also have experience in experimental methods, such as eye-tracking, EEG, fMRI and behavioral tests with young children. 
+</p>
+<p>
+  Here is an updated version of my <a href = "./Ershui13/xiaomeng-ma.github.io/My_CV_full.pdf" download>CV</a>.</p>.
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
+	<a href="mailto:xm2158@tc.columbia.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://www.linkedin.com/in/amyxiaomengma/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+</span></p>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	Feel free to contact me if you want to discuss a project, ask questions or hire me!
 </div>
 
