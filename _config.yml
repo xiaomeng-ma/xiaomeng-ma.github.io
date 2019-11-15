@@ -1,5 +1,5 @@
 # Site settings
-title: *folio
+title: Xiaomeng Ma
 email: you@example.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
@@ -19,11 +19,11 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  teaching:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
+    permalink: /teaching/:path/
+  research:
     output: true
-    permalink: /poetry/:path/
+    permalink: /research/:path/
 
 
