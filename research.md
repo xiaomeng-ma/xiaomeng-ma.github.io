@@ -1,47 +1,15 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
+permalink: /research/
+title: research
+description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 
-{% for project in site.teaching %}
-
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
-
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-
-{% endif %}
-
+<ul class="post-list">
+{% for poem in site.poetry reversed %}
+    <li>
+        <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ poem.title }}</a></h2>
+        <p class="post-meta">{{ poem.date | date: '%B %-d, %Y — %H:%M' }}</p>
+      </li>
 {% endfor %}
+</ul>
