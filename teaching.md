@@ -35,7 +35,8 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
     <td>PSY/LNG 342</td>
     <td>The Psychology of Literacy Development</td>
     <td>Fall 2019 - Fall 2020</td>
-    <a href = "https://github.com/xiaomeng-ma/xiaomeng-ma.github.io/raw/master/_teaching/LNGPSY_342_Fall_2019_Lehman.pdf" download style="color: red"><td>Syllabus</td>
+    <a href = "https://github.com/xiaomeng-ma/xiaomeng-ma.github.io/raw/master/_teaching/LNGPSY_342_Fall_2019_Lehman.pdf" download style="color: red">
+      <td>Syllabus</td>
   </tr>
 </table>
 

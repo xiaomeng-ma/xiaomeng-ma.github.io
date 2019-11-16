@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: default
 permalink: /research/
 title: research
 description: 
 ---
-<ul class="page-content">
 <p><br />
 <h1>Research</h1>
 <h2>Publication</h2>
@@ -44,4 +43,3 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders:
   </tr>
 </table>
 </p>
-</ul>
