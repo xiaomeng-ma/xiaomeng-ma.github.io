@@ -16,7 +16,7 @@ In syntax, I am interested in applicative structure and my general research ques
 I also have experience in experimental methods, such as eye-tracking, EEG, fMRI and behavioral tests with young children. 
 </p>
 <p>
- Here is an updated version of my <a href = "https://xiaomeng-ma.github.io/Xiaomeng_Ma_CV.pdf" download style="color:red">CV</a>.</p>.
+ Here is an updated version of my <a href = "https://xiaomeng-ma.github.io/Xiaomeng_Ma_CV.pdf" target = "_blank" style="color:red">CV</a>.</p>.
 
 <br/>
 <hr/>
