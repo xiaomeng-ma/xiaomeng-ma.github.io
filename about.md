@@ -1,6 +1,6 @@
 ---
-layout: page
-title: about
+layout: default
+title: Xiaomeng Ma
 permalink: /about/
 ---
 
