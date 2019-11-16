@@ -1,22 +1,23 @@
 ---
 layout: default
-title: about
+title: About
 permalink: /about/
 ---
-<h1> Xiaomeng Ma </h1>
+<h1> About Me </h1>
 <img class="col one right" src="/img/prof_pic.png">
 
 <br/>
-In language acquisition, I am trying to understand to what extent is the syntactical structure of a language can be aquired through statistical learning. My approach is to apply machine learning and neural network techniques to corpora of child-adult verbal interaction on <a href="https://childes.talkbank.org/" style="color:red">CHILDES</a>. 
+<p>My research interests are in language acquisition and syntax.</p>
+<p>In language acquisition, I am trying to understand to what extent the syntactical structure can be aquired through statistical learning. My approach is to apply machine learning and neural network techniques to corpora of child-adult verbal interaction on <a href="https://childes.talkbank.org/" style="color:red">CHILDES</a>. </p>
 
 <p>
-In syntax, I am working with applicative structure and my general research question is why do some languages don't have double object construction. I have worked with Mandarin Chinese and <a href="https://en.wikipedia.org/wiki/Bamum_language" style="color:red">Shupamem</a>.</p>
+In syntax, I am interested in applicative structure and my general research question is why some languages don't have double object construction. I have worked with Mandarin Chinese and <a href="https://en.wikipedia.org/wiki/Bamum_language" style="color:red">Shupamem</a>.</p>
 
 <p>
 I also have experience in experimental methods, such as eye-tracking, EEG, fMRI and behavioral tests with young children. 
 </p>
 <p>
-  Here is an updated version of my <a href = "My_CV_full.pdf" download>CV</a>.</p>.
+ Here is an updated version of my <a href = "/My_CV_full.pdf" download>CV</a>.</p>.
 
 <br/>
 <hr/>
