@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching
+title: teaching
 permalink: /teaching/
 description:
 ---
