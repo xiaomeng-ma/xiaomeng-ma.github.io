@@ -10,15 +10,3 @@ layout: default
   <hr><p class="small" align="justify"> I'm a PhD student in linguistic at CUNY Graduate Center. My research interests are in syntax, language acquisition and sentence processing. I work at <a href="http://littlelinguist.hunter.cuny.edu/" style="color:red">Language Acquisition Research Center</a> at Hunter College.</p> 
 </div>
 
-
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
