@@ -39,7 +39,6 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
 </table>
 <p></p>
 <p><br />
-<br>
 <h3>College of Staten Island, CUNY</h3>
 
 <table style="width:100%">

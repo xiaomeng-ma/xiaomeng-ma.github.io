@@ -6,12 +6,11 @@ description:
 ---
 <h1 style="color: red">Research</h1>
 <p><br />
-<br>
-<h2>Publication</h2>
+<h3>Publication</h3>
 <p></p>
 Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities</i>
 <p></p>
-<h2>Conference Presence</h2>
+<h3>Conference Presence</h3>
 <br>
 <table style="width:100%">
   <tr>
