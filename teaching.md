@@ -6,7 +6,6 @@ description:
 ---
 <h1>Teaching</h1>
  <p><br />
-    <body>
 I teach undergraduate courses in linguistics, psychology and speech-language-hearing sciences at Lehman College and College of Staten Island.
 
 <br>

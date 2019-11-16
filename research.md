@@ -1,11 +1,12 @@
 ---
 layout: default
-permalink: /research/
 title: research
+permalink: /research/
 description: 
 ---
-<p><br />
 <h1>Research</h1>
+<p><br />
+  <body>
 <h2>Publication</h2>
 Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities</i>
 <h2>Conference Presence</h2>
