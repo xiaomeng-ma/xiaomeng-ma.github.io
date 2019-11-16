@@ -4,6 +4,7 @@ permalink: /research/
 title: research
 description: .
 ---
+<ul class="page-content">
 <p><br />
 <h2>Conference Presence</h2>
 <br>
@@ -40,3 +41,4 @@ description: .
   </tr>
 </table>
 </p>
+</ul>
