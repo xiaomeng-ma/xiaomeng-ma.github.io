@@ -4,12 +4,12 @@ title: teaching
 permalink: /teaching/
 description:
 ---
-<h1>Teaching</h1>
+<h1 style="color: red">Teaching</h1>
  <p><br />
 I teach undergraduate courses in linguistics, psychology and speech-language-hearing sciences at Lehman College and College of Staten Island.
 
 <br>
-<h2 style="color:Tomato;">Lehman College, CUNY</h2>
+<h2 >Lehman College, CUNY</h2>
 <table style="width:100%">
 
   <tr>
@@ -38,7 +38,7 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
   </tr>
 </table>
 
-<h2 style="color:Tomato;">College of Staten Island, CUNY</h2>
+<h2>College of Staten Island, CUNY</h2>
 
 <table style="width:100%">
 
