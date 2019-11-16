@@ -45,3 +45,9 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders:
   </tr>
 </table>
 </p>
+<div>
+<span class="contacticon center">
+  <a href="mailto:xm2158@tc.columbia.com"><i class="fa fa-envelope-square"></i></a>
+  <a href="https://www.linkedin.com/in/amyxiaomengma/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+</span>
+</div>

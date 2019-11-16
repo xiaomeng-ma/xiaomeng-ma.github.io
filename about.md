@@ -3,11 +3,10 @@ layout: default
 title: about
 permalink: /about/
 ---
-<h1> About Me </h1>
+<h1 style="color: red"> About Me </h1>
 <img class="col one right" src="/img/prof_pic.png">
-
-<br/>
-<p>My research interests are in language acquisition and syntax.</p>
+<p><br/>
+My research interests are in language acquisition and syntax.</p>
 <p>In language acquisition, I am trying to understand to what extent the syntactical structure can be aquired through statistical learning. My approach is to apply machine learning and neural network techniques to corpora of child-adult verbal interaction on <a href="https://childes.talkbank.org/" style="color:red">CHILDES</a>. </p>
 
 <p>
