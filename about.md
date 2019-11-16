@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Xiaomeng Ma
+title: about
 permalink: /about/
 ---
-
+<h1> Xiaomeng Ma </h1>
 <img class="col one right" src="/img/prof_pic.png">
 
 <br/>
