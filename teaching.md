@@ -37,6 +37,7 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
     <td><a href = "https://xiaomeng-ma.github.io/LNG:PSY_342_Fall_2019_Lehman.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
 </table>
+<p></p>
 
 <h2>College of Staten Island, CUNY</h2>
 
