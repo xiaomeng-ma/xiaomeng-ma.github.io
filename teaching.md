@@ -9,7 +9,7 @@ description:
 I teach undergraduate courses in linguistics, psychology and speech-language-hearing sciences at Lehman College and College of Staten Island.
 
 <br>
-<h2 >Lehman College, CUNY</h2>
+<h3 >Lehman College, CUNY</h3>
 <table style="width:100%">
 <p></p>
   <tr>
@@ -38,8 +38,9 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
   </tr>
 </table>
 <p></p>
-
-<h2>College of Staten Island, CUNY</h2>
+<p><br />
+<br>
+<h3>College of Staten Island, CUNY</h3>
 
 <table style="width:100%">
 <p></p>
