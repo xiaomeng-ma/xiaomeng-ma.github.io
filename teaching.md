@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Teaching
-permalink: /Teaching/
+layout: default
+title: teaching
+permalink: /teaching/
 ---
-<ul class="page-content">
  <p><br />
     <body>
 I teach undergraduate courses in linguistics, psychology and speech-language-hearing sciences at Lehman College and College of Staten Island.
@@ -57,4 +56,3 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
 
 </table>
 <br/>
-</ul>
