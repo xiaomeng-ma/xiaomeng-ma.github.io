@@ -16,7 +16,7 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
     <td>LNG 160</td>
     <td>Introduction to Linguistics</td>
     <td>Spring 2019</td>
-    <td>Syllabus</td>
+    <td><a href = "https://xiaomeng-ma.github.io/LNG 160 Syllabus_Intro_to_Linguistics.pdf" target="_blank" style="color: red">Syllabus></a></td>
   </tr>
   <tr>
     <td>LNG/SPV 230</td>
