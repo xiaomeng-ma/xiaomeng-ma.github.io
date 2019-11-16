@@ -11,7 +11,7 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
 <br>
 <h2 >Lehman College, CUNY</h2>
 <table style="width:100%">
-
+<p></p>
   <tr>
     <td>LNG 160</td>
     <td>Introduction to Linguistics</td>
@@ -42,7 +42,7 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
 <h2>College of Staten Island, CUNY</h2>
 
 <table style="width:100%">
-
+<p></p>
   <tr>
     <td>PSY 242</td>
     <td>Developmental Psychology</td>

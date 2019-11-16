@@ -8,6 +8,7 @@ description:
 <p><br />
 <br>
 <h2>Publication</h2>
+<p></p>
 Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities</i>
 <p></p>
 <h2>Conference Presence</h2>
@@ -40,7 +41,7 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders:
   </tr>
   <tr>
     <td>2018.2</td>
-    <td><b>Ma,X.,</b> <i>Revisiting pronoun case errors in child language: a corpus analysis</i> at <a href = "https://amlap2018asia.wordpress.com">AMLaP - Asia</a style="color: red">, Hyderabad, India</td> 
+    <td><b>Ma,X.,</b> <i>Revisiting pronoun case errors in child language: a corpus analysis</i> at <a href = "https://amlap2018asia.wordpress.com" style="color: red">AMLaP - Asia</a>, Hyderabad, India</td> 
     <td><a href = "https://xiaomeng-ma.github.io/pronoun case.pdf" target = "_blank" style = "color: red">Poster</a></td>
   </tr>
 </table>
