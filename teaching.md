@@ -1,7 +1,8 @@
 ---
-layout: default
-title: teaching
+layout: page
+title: Teaching
 permalink: /teaching/
+description:
 ---
  <p><br />
     <body>
@@ -36,7 +37,7 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
     <td>Syllabus</td>
   </tr>
 </table>
-</br>
+
 <h2 style="color:Tomato;">College of Staten Island, CUNY</h2>
 
 <table style="width:100%">

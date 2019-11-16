@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: .
+title: Research
+description: 
 ---
 <ul class="page-content">
 <p><br />
