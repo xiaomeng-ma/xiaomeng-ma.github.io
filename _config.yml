@@ -1,6 +1,6 @@
 # Site settings
 title: Xiaomeng Ma
-email: you@example.com
+email: xm2158@tc.columbia.edu
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl: # the subpath of your site, e.g. /blog/
@@ -12,7 +12,8 @@ github_username:  github_username
 markdown: kramdown
 google_analytics: UA-152691063-1
 highlighter: rouge
-
+plugins: 
+  - jekyll-seo-tag
 # Pagination
 paginate: 15
 paginate_path: "/blog/page:num/"
