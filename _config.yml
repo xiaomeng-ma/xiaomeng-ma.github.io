@@ -3,7 +3,7 @@ title: Xiaomeng Ma
 email: xm2158@tc.columbia.edu
 description: > # this means to ignore newlines until "baseurl:"
   Xiaomeng Ma's website
-baseurl: /home/
+baseurl: 
 url:  xiaomeng-ma.github.io
 twitter_username: twitter_username
 github_username:  github_username
