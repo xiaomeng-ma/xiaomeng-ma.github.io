@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 <h1 style="color: red"> About Me </h1>
-<img class="col one right" src="/img/prof_pic.png">
+<img class="col one right" src="/img/profile.jpg">
 <p><br/>
 My research interests are in language acquisition and syntax. I work at <a href = "http://littlelinguist.hunter.cuny.edu/" style = "color: red">Language Acquisition Research Center</a> under the supervision of Prof. Virginia Valian and Prof. Martin Chodorow.</p>
 <p>In language acquisition, I am trying to understand to what extent the syntactical structure can be aquired through statistical learning. My approach is to apply machine learning and neural network techniques to corpora of child-adult verbal interaction on <a href="https://childes.talkbank.org/" style="color:red">CHILDES</a>. </p>
