@@ -6,7 +6,8 @@ description:
 ---
 <h1 style="color: red">Teaching</h1>
  <p><br />
-I teach undergraduate courses in linguistics, psychology and speech-language-hearing sciences at Lehman College and College of Staten Island.
+I teach undergraduate courses in linguistics, psychology and speech-language-hearing sciences at Lehman College, College of Staten Island and Yeshiva University.
+I'm the practicum leader for Statistics in Linguistic Research at The Graduate Center. 
 
 <br>
 <h3 >Lehman College, CUNY</h3>
@@ -56,6 +57,16 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
   </tr>
 
 </table>
+<h3>Stern College for Women, Yeshiva University</h3>
+
+<table style="width:100%">
+<p></p>
+  <tr>
+    <td>SPAU 4925</td>
+    <td>Introduction to Linguistics</td>
+    <td>Spring 2020</td>
+    <td><a href = "https://xiaomeng-ma.github.io/SPAU-4925X.Ma.Spring2020.pdf" target="_blank" style="color: red">Syllabus</a></td>
+  </tr>
 <br/>
 <div>
 <span class="contacticon center">
