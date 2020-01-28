@@ -40,7 +40,6 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
 </table>
 <p></p>
 <h3>College of Staten Island, CUNY</h3>
-
 <table style="width:100%">
 <p></p>
   <tr>
@@ -55,9 +54,10 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
     <td>Summer 2019</td>
     <td><a href = "https://xiaomeng-ma.github.io/PSY__335_CSI.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
+ </table>
+ <p></p>
 <h3>Stern College for Women, Yeshiva University</h3>
 <table style="width:100%">
-<p></p>
   <tr>
     <td>SPAU 4925</td>
     <td>Introduction to Linguistics</td>
