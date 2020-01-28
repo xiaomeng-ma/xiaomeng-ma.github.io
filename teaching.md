@@ -58,7 +58,6 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
 
 </table>
 <h3>Stern College for Women, Yeshiva University</h3>
-
 <table style="width:100%">
 <p></p>
   <tr>
@@ -68,6 +67,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
     <td><a href = "https://xiaomeng-ma.github.io/SPAU-4925X.Ma.Spring2020.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
 <br/>
+
 <div>
 <span class="contacticon center">
   <a href="mailto:xm2158@tc.columbia.com"><i class="fa fa-envelope-square"></i></a>
