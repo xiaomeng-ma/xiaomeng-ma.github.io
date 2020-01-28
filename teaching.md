@@ -55,7 +55,6 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
     <td>Summer 2019</td>
     <td><a href = "https://xiaomeng-ma.github.io/PSY__335_CSI.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
-</table>
 <h3>Stern College for Women, Yeshiva University</h3>
 <table style="width:100%">
 <p></p>
