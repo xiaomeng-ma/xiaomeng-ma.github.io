@@ -58,6 +58,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
  <p></p>
 <h3>Stern College for Women, Yeshiva University</h3>
 <table style="width:100%">
+ <p></p>
   <tr>
     <td>SPAU 4925</td>
     <td>Introduction to Linguistics</td>
