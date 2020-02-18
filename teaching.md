@@ -65,7 +65,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
     <td>Spring 2020</td>
     <td><a href = "https://xiaomeng-ma.github.io/SPAU-4925X.Ma.Spring2020.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
-<\table>
+</table>
 <br/>
 
 <div>
