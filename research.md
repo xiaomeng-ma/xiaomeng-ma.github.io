@@ -16,17 +16,17 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders:
   <tr>
     <td>2021.2</td>
     <td><b>Ma,X.,</b> <i>Why No Double Objective Construction in Shupamem	</i>  at <a href = "Why No Double Objective Construction in Shupamem" style="color: red">DGfS 2021</a>, Online</td>
-    <td><a href = "https://xiaomeng-ma.github.io/DGfS.pdf" target = "_blank" style = "color: red">Abstract</a></td>
+    <td><a href = "https://xiaomeng-ma.github.io/DALF21_paper_4.pdf" target = "_blank" style = "color: red">Abstract</a></td>
     </tr>
     <tr>
     <td>2021.1</td>
     <td><b>Ma,X.,</b> Valian, V., Chodorow, M., <i>Can ‘Let her open it’ explain ‘Her open it’ error?</i>  at <a href = "https://www.linguisticsociety.org/node/34814/schedule" style="color: red">LSA 2021</a>, Online</td>
-    <td><a href = "https://xiaomeng-ma.github.io/LSA.pdf" target = "_blank" style = "color: red">Abstract</a></td>
+    <td><a href = "https://xiaomeng-ma.github.io/LSA2021.pdf" target = "_blank" style = "color: red">Abstract</a></td>
     </tr>
   <tr>
     <td>2020.11</td>
     <td><b>Ma,X.,</b> Chodorow, M., Valian, V.,<i>Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition</i>  at <a href = "https://cmclorg.github.io/" style="color: red">CMCL at EMNLP 2020</a>, Online</td>
-    <td><a href = "https://xiaomeng-ma.github.io/13.pdf" target = "_blank" style = "color: red">Proceeding</a></td>
+    <td><a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red">Proceeding</a></td>
     </tr>
   <tr>
     <td>2020.10</td>
