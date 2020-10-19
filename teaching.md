@@ -45,14 +45,20 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
   <tr>
     <td>PSY 242</td>
     <td>Developmental Psychology</td>
-    <td>Fall 2018 -  Fall 2019</td>
+    <td>Fall 2018 -  Fall 2020</td>
     <td><a href = "https://xiaomeng-ma.github.io/PSY_242_Fall_2019_CSI.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
   <tr>
     <td>PSY 335</td>
     <td>Experimental Psychology</td>
-    <td>Summer 2019</td>
+    <td>Summer 2019, 2020</td>
     <td><a href = "https://xiaomeng-ma.github.io/PSY__335_CSI.pdf" target="_blank" style="color: red">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>LING 350</td>
+    <td>Structure of Words</td>
+    <td>Fall 2020</td>
+    <td><a href = "https://xiaomeng-ma.github.io/LING_350_Structure_of_Words.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
  </table>
  <p></p>
