@@ -21,7 +21,7 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders:
     <tr>
     <td>2021.1</td>
     <td><b>Ma,X.,</b> Valian, V., Chodorow, M., <i>Can ‘Let her open it’ explain ‘Her open it’ error?</i>  at <a href = "https://www.linguisticsociety.org/node/34814/schedule" style="color: red">LSA 2021</a>, Online</td>
-    <td><a href = "https://xiaomeng-ma.github.io/LSA2021.pdf" target = "_blank" style = "color: red">Abstract</a></td>
+    <td><a href = "https://xiaomeng-ma.github.io/Can ‘Let her open it’ explain _‘her open it’ errors_.pdf" target = "_blank" style = "color: red">Slides</a></td>
     </tr>
   <tr>
     <td>2020.11</td>
