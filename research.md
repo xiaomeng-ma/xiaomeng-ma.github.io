@@ -6,9 +6,10 @@ description:
 ---
 <h1 style="color: red">Research</h1>
 <p><br />
-<h3>Journal Publication</h3>
+<h3>Publications and Proceedings</h3>
 <p></p>
-Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities</i>
+Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities</i> <a href = "https://xiaomeng-ma.github.io/Onnis2018.pdf" target = "_blank" style = "color: red">Download</a></td>
+<b>Ma, X.</b>, Chodorow, M., Valian, V. (2020). Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition <i>Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics</i> (pp. 66-74). <a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red">Download</a></td>
 <p></p>
 <h3>Conference Presence</h3>
 <br>
@@ -26,7 +27,7 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b> (2018). Language development and disorders:
   <tr>
     <td>2020.11</td>
     <td><b>Ma,X.,</b> Chodorow, M., Valian, V.,<i>Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition</i>  at <a href = "https://cmclorg.github.io/" style="color: red">CMCL at EMNLP 2020</a>, Online</td>
-    <td><a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red">Proceeding</a></td>
+    <td><a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red">Slides</a></td>
     </tr>
   <tr>
     <td>2020.10</td>
