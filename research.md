@@ -6,7 +6,8 @@ description:
 ---
 <h1 style="color: red">Research</h1>
 <p><br />
-<h3>In Progress</h3>
+<b>Under Construction</b>
+<h3><b>In Progress</b></h3>
 <p></p>
 1. Counting
 <p></p>
@@ -14,14 +15,14 @@ description:
 <p></p>
 3. 
 <p></p>
-<h3>Publications and Proceedings</h3>
+<h3><b>Publications and Proceedings</b></h3>
 <p></p>
 Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities.</i> <a href = "https://xiaomeng-ma.github.io/Onnis2018.pdf" target = "_blank" style = "color: red"> Download</a></td>
 <p></p>
-<b>Ma, X.</b>,Chodorow, M., Valian, V. (2020). Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics,</i> (pp. 66-74)<a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red"> Download</a></td> <a href = "https://github.com/xiaomeng-ma/Input-Pronoun" style="color: red">, Code</a></td>
+<b>Ma, X.</b>,Chodorow, M., Valian, V. (2020). Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics,</i> (pp. 66-74)<a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red"> Download</a> <a href = "https://github.com/xiaomeng-ma/Input-Pronoun" style="color: red">, Code</a> </td>
 <p></p>
 
-<h3>Conference Presence</h3>
+<h3><b>Conference Presence</b></h3>
 <br>
 <table style="width:100%">
   <tr>
