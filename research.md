@@ -14,9 +14,9 @@ description:
 <p></p>
 <h3><b>Publications and Proceedings</b></h3>
 <p></p>
-Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities.</i> <a href = "https://xiaomeng-ma.github.io/Onnis2018.pdf" target = "_blank" style = "color: red"> [Download]</a> 
+Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities.</i> <a href = "https://xiaomeng-ma.github.io/Onnis2018.pdf" target = "_blank" style = "color: red"> [Download] :child:</a> 
 <p></p>
-<b>Ma, X.</b>,Chodorow, M., Valian, V. (2020). Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics,</i> (pp. 66-74)<a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red"> [Download]</a> <a href = "https://github.com/xiaomeng-ma/Input-Pronoun" style="color: red"> [Github]</a>
+<b>Ma, X.</b>,Chodorow, M., Valian, V. (2020). Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics,</i> (pp. 66-74)<a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red"> [Download]</a> <a href = "https://github.com/xiaomeng-ma/Input-Pronoun" style="color: red"> [Github] :child::robot:</a>
 <p></p>
 
 <h3><b>Conference Presence</b></h3>
@@ -65,7 +65,7 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: 
   <tr>
     <td>2018.7</td>
     <td><b>Ma,X.,</b> <i>Which is more effective in disambiguation: prosody or context?</i> at <a href = "https://www.uni-goettingen.de/en/583801.html" style="color: red">Ambigo: Workshop</a>, Göttingen, Germany</td> 
-    <td><a href = "https://xiaomeng-ma.github.io/ambiguity.pdf" target = "_blank" style = "color: red">Poster</a></td><td></td>
+    <td><a href = "https://xiaomeng-ma.github.io/ambiguity.pdf" target = "_blank" style = "color: red">Poster</a></td><td>:bike:</td>
   </tr>
   <tr>
     <td>2018.6</td>
