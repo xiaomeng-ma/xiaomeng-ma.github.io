@@ -5,13 +5,13 @@ permalink: /teaching/
 description:
 ---
 <h1 style="color: red">Teaching</h1>
- <p><br />
+ <p><br>
 I teach undergraduate courses in linguistics, psychology and speech-language-hearing sciences at Lehman College, College of Staten Island and Yeshiva University.
 I'm the practicum leader for Statistics in Linguistic Research at The Graduate Center. 
 
-<br>
-<h3><b>Lehman College, CUNY</b></h3>
-<table style="width:100%">
+<br/>
+<h3> <b>Lehman College, CUNY</b></h3>
+<table style="width:100%"
 <p></p>
   <tr>
     <td>LNG 160</td>
