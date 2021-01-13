@@ -37,6 +37,12 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
     <td>Fall 2019 - Fall 2020</td>
     <td><a href = "https://xiaomeng-ma.github.io/LNG:PSY_342_Fall_2019_Lehman.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
+  <tr>
+   <td>LNG 321</td>
+   <td>Introduction to Syntax</td>
+   <td>Spring 2021</td>
+   <td><a href = "https://xiaomeng-ma.github.io/LNG:PSY_342_Fall_2019_Lehman.pdf" target="_blank" style="color: red">Syllabus</a></td>>
+  </tr>
 </table>
 <p></p>
 <h3>College of Staten Island, CUNY</h3>
@@ -51,7 +57,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
   <tr>
     <td>PSY 335</td>
     <td>Experimental Psychology</td>
-    <td>Summer 2019, 2020</td>
+    <td>Summer 2019, 2020, Spring 2021</td>
     <td><a href = "https://xiaomeng-ma.github.io/PSY__335_CSI.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
   <tr>
@@ -68,7 +74,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
   <tr>
     <td>SPAU 4925</td>
     <td>Introduction to Linguistics</td>
-    <td>Spring 2020</td>
+    <td>Spring 2020, 2021</td>
     <td><a href = "https://xiaomeng-ma.github.io/SPAU-4925X.Ma.Spring2020.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
 </table>
