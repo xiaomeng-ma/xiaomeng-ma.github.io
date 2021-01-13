@@ -11,7 +11,7 @@ My research areas mainly focus on language acquisition and NLP/NLU. It is intrig
 <p>
 I also work on syntax. I am interested in applicative structure and my current research question is why some languages don't have double object construction. I have worked with Mandarin Chinese and <a href="https://en.wikipedia.org/wiki/Bamum_language" style="color:red">Shupamem</a>.</p>
 
-<p>I am proficient in machine learning and deep learning applications in various tasks in NLP/NLU. I am looking for machine learning/NLP internship opportunities, please don't hesitate to send me an email or hit me up on linkedin. </p>
+<p>I am proficient in machine learning and deep learning skills for applications in various NLP/NLU tasks. I am looking for machine learning/NLP internship opportunities, please don't hesitate to send me an email or hit me up on linkedin. </p>
 
 <p>Here is an updated version of my <a href = "https://xiaomeng-ma.github.io/CVJan12.pdf" target = "_blank" style="color:red">CV</a> (2021.1).</p>.
 <br/>
