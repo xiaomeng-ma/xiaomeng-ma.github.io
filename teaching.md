@@ -11,8 +11,8 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
 
 <br/>
 <h3> <b>Lehman College, CUNY</b></h3>
-<table style="width:100%"
-<p></p>
+<table style="width:100%">
+ <p></p>
   <tr>
     <td>LNG 160</td>
     <td>Introduction to Linguistics</td>
@@ -41,7 +41,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
    <td>LNG 321</td>
    <td>Introduction to Syntax</td>
    <td>Spring 2021</td>
-   <td><a href = "https://xiaomeng-ma.github.io/LNG:PSY_342_Fall_2019_Lehman.pdf" target="_blank" style="color: red">Syllabus</a></td>>
+   <td><a href = "https://xiaomeng-ma.github.io/LNG:PSY_342_Fall_2019_Lehman.pdf" target="_blank" style="color: red">Syllabus</a></td>
   </tr>
 </table>
 <p></p>
