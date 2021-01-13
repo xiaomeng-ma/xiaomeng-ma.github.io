@@ -6,7 +6,6 @@ description:
 ---
 <h1 style="color: red">Research</h1>
 <p><br />
-<b>Under Construction</b>
 <h3><b>In Progress</b></h3>
 <p></p>
 1. Number Name Grammar (Text Normalization) <a href = "https://github.com/xiaomeng-ma/Number-Name-Grammar" style = "color: red"> [Github]</a>
