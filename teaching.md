@@ -10,7 +10,7 @@ I teach undergraduate courses in linguistics, psychology and speech-language-hea
 I'm the practicum leader for Statistics in Linguistic Research at The Graduate Center. 
 
 <br>
-<h3 >Lehman College, CUNY</h3>
+<h3><b>Lehman College, CUNY</b></h3>
 <table style="width:100%">
 <p></p>
   <tr>
@@ -45,7 +45,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
   </tr>
 </table>
 <p></p>
-<h3>College of Staten Island, CUNY</h3>
+<h3><b>College of Staten Island, CUNY</b></h3>
 <table style="width:100%">
 <p></p>
   <tr>
@@ -68,7 +68,7 @@ I'm the practicum leader for Statistics in Linguistic Research at The Graduate C
   </tr>
  </table>
  <p></p>
-<h3>Stern College for Women, Yeshiva University</h3>
+<h3><b>Stern College for Women, Yeshiva University</b></h3>
 <table style="width:100%">
  <p></p>
   <tr>
