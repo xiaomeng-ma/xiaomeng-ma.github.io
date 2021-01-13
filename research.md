@@ -9,11 +9,9 @@ description:
 <b>Under Construction</b>
 <h3><b>In Progress</b></h3>
 <p></p>
-1. 
+1. Number Name Grammar (Text Normalization) <a href = "https://github.com/xiaomeng-ma/Number-Name-Grammar" style = "color: red"> [Github]</a>
 <p></p>
 2. Automated Essay Scoring <a href = "https://github.com/xiaomeng-ma/AES-Project" style="color: red"> [Github]</a>
-<p></p>
-3. 
 <p></p>
 <h3><b>Publications and Proceedings</b></h3>
 <p></p>
