@@ -8,9 +8,9 @@ description:
 <p><br />
 <h3><b>In Progress</b></h3>
 <p></p>
-1. Number Name Grammar (Text Normalization) <a href = "https://github.com/xiaomeng-ma/Number-Name-Grammar" style = "color: red"> [Github]</a>
+1. 🀞Number Name Grammar (Text Normalization) <a href = "https://github.com/xiaomeng-ma/Number-Name-Grammar" style = "color: red"> [Github]</a>
 <p></p>
-2. Automated Essay Scoring <a href = "https://github.com/xiaomeng-ma/AES-Project" style="color: red"> [Github]</a>
+2. 🀞Automated Essay Scoring <a href = "https://github.com/xiaomeng-ma/AES-Project" style="color: red"> [Github]</a>
 <p></p>
 <h3><b>Publications and Proceedings</b></h3>
 <p></p>
@@ -23,47 +23,47 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: 
 <br>
 <table style="width:100%">
    <tr>
-    <td>2021.4</td>
+    <td>🀗2021.4</td>
     <td><b>Ma,X.,</b> <i>Why No Double Objective Construction in Shupamem	</i>  at <a href = "https://lin.ufl.edu/51st-52nd-annual-conference-on-african-linguistics" style="color: red">ACAF 51-52</a>, Online</td>
     <td><a href = "https://xiaomeng-ma.github.io/DALF21_paper_4.pdf" target = "_blank" style = "color: red">Abstract</a></td>
     </tr>
   <tr>
-    <td>2021.2</td>
+    <td>🀗2021.2</td>
     <td><b>Ma,X.,</b> <i>Why No Double Objective Construction in Shupamem	</i>  at <a href = "https://dgfs2021.uni-freiburg.de/" style="color: red">DGfS 2021</a>, Online</td>
     <td><a href = "https://xiaomeng-ma.github.io/DALF21_paper_4.pdf" target = "_blank" style = "color: red">Abstract</a></td>
     </tr>
     <tr>
-    <td>2021.1</td>
+    <td>🀅2021.1</td>
     <td><b>Ma,X.,</b> Valian, V., Chodorow, M., <i>Can ‘Let her open it’ explain ‘Her open it’ error?</i>  at <a href = "https://www.linguisticsociety.org/node/34814/schedule" style="color: red">LSA 2021</a>, Online</td>
     <td><a href = "https://xiaomeng-ma.github.io/Can ‘Let her open it’ explain _‘her open it’ errors_.pdf" target = "_blank" style = "color: red">Slides</a></td>
     </tr>
   <tr>
-    <td>2020.11</td>
+    <td>🀅2020.11</td>
     <td><b>Ma,X.,</b> Chodorow, M., Valian, V.,<i>Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition</i>  at <a href = "https://cmclorg.github.io/" style="color: red">CMCL at EMNLP 2020</a>, Online</td>
     <td><a href = "https://xiaomeng-ma.github.io/CMCL_2020_Slides.pdf" target = "_blank" style = "color: red">Slides</a></td>
     </tr>
   <tr>
-    <td>2020.10</td>
+    <td>🀅2020.10</td>
     <td><b>Ma,X.,</b> Valian, V., Chodorow, M.,<i>Revisiting Children’s Pronoun Case Errors: A Comprehensive Corpus Analysis</i>  at <a href = "https://marisacasillas.github.io/chatterlab/mpal/poster-overview.html#23-october" style="color: red">Many Paths to Language (MPaL)</a>, Online</td>
     <td><a href = "https://xiaomeng-ma.github.io/MPaL.pdf" target = "_blank" style = "color: red">Poster</a></td>
     </tr>
   <tr>
-  	<td>2019.11</td>
+  	<td>🀅🀞2019.11</td>
     <td><b>Ma,X.,</b> Xu, Q., Valian, V., Chodorow, M.,<i>Testing the Tolerance Principle on Corpus Data</i> at <a href = "https://www.bu.edu/bucld/" style="color: red">BUCLD 44</a>, Boston, USA</td>
     <td><a href = "https://xiaomeng-ma.github.io/TP poster.pdf" target = "_blank" style = "color: red">Poster</a></td>
   </tr>
   <tr>
-    <td>2019.5</td>
+    <td>🀅2019.5</td>
     <td><b>Ma,X.,</b> Valian, V., Chodorow, M., <i>The subject omission and pronoun avoidance in children with ASD: A Corpus Analysis</i>  at <a href = "https://events.au.dk/salc7" style="color: red">SALC 7</a>, Aarhus, Denmark</td>
     <td><a href = "https://xiaomeng-ma.github.io/ASD.pdf" target = "_blank" style = "color: red">Poster</a></td>
   </tr>
   <tr>
-    <td>🀅2019.4</td>
+    <td>🀅🀞2019.4</td>
     <td><b>Ma,X.,</b> Valian, V., Chodorow, M., <i>Children’s Pronoun Case Errors Revisit: A computational model on distributional cues</i> at <a href = "http://delegia.com/app/attendee/default.asp?ProjectId=12840&PageId=74987" style="color: red">Lund Symposium on Cognition, Communication and Learning</a>, Lund, Sweden</td> 
     <td><a href = "https://xiaomeng-ma.github.io/Case Errors.pdf" target = "_blank" style = "color: red">Slides</a></td>
   </tr>
   <tr>
-    <td>2018.7</td>
+    <td>🀎2018.7</td>
     <td><b>Ma,X.,</b> <i>Which is more effective in disambiguation: prosody or context?</i> at <a href = "https://www.uni-goettingen.de/en/583801.html" style="color: red">Ambigo: Workshop</a>, Göttingen, Germany</td> 
     <td><a href = "https://xiaomeng-ma.github.io/ambiguity.pdf" target = "_blank" style = "color: red">Poster</a></td>
   </tr>
@@ -79,6 +79,10 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: 
   </tr>
 </table>
 </p>
+🀅: Language Acquisition
+🀞: NLP
+🀎: Sentence Processing
+🀗: Syntax
 <div>
 <span class="contacticon center">
   <a href="mailto:xm2158@tc.columbia.com"><i class="fa fa-envelope-square"></i></a>
