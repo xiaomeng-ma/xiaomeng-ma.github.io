@@ -9,9 +9,9 @@ description:
 <b>Under Construction</b>
 <h3><b>In Progress</b></h3>
 <p></p>
-1. Counting
+1. 
 <p></p>
-2. AES 
+2. Automated Essay Scoring <a href = "https://github.com/xiaomeng-ma/AES-Project" style="color: red"> [Code]</a>
 <p></p>
 3. 
 <p></p>
@@ -19,7 +19,7 @@ description:
 <p></p>
 Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities.</i> <a href = "https://xiaomeng-ma.github.io/Onnis2018.pdf" target = "_blank" style = "color: red"> Download</a> 
 <p></p>
-<b>Ma, X.</b>,Chodorow, M., Valian, V. (2020). Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics,</i> (pp. 66-74)<a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red"> Download</a> <a href = "https://github.com/xiaomeng-ma/Input-Pronoun" style="color: red">, Code</a>
+<b>Ma, X.</b>,Chodorow, M., Valian, V. (2020). Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics,</i> (pp. 66-74)<a href = "https://xiaomeng-ma.github.io/13_Paper.pdf" target = "_blank" style = "color: red"> Download</a> <a href = "https://github.com/xiaomeng-ma/Input-Pronoun" style="color: red"> [Code]</a>
 <p></p>
 
 <h3><b>Conference Presence</b></h3>
