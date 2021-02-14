@@ -13,6 +13,7 @@ description:
 2. Automated Essay Scoring <a href = "https://github.com/xiaomeng-ma/AES-Project" style="color: red"> [Github] 🤖</a>
 <p></p>
 3. Embedded Sentence Processing <a href = "https://github.com/xiaomeng-ma/AES-Project" style="color: red"> [Github] 🚲 🤖</a>
+<p></p>
 <h3><b>Publications and Proceedings</b></h3>
 <p></p>
 Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: Possible genes and environment interactions. <i>Research in developmental disabilities.</i> <a href = "https://xiaomeng-ma.github.io/Onnis2018.pdf" target = "_blank" style = "color: red"> [Download]🧒 </a> 
@@ -51,7 +52,7 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: 
   <tr>
   	<td>2019.11</td>
     <td><b>Ma,X.,</b> Xu, Q., Valian, V., Chodorow, M.,<i>Testing the Tolerance Principle on Corpus Data</i> at <a href = "https://www.bu.edu/bucld/" style="color: red">BUCLD 44</a>, Boston, USA</td>
-    <td><a href = "https://xiaomeng-ma.github.io/TP poster.pdf" target = "_blank" style = "color: red">Poster</a></td><td> 🧒 🤖</td>
+    <td><a href = "https://xiaomeng-ma.github.io/Tolerance_Principle_March17.pdf" target = "_blank" style = "color: red">Poster</a></td><td> 🧒 🤖</td>
   </tr>
   <tr>
     <td>2019.5</td>
