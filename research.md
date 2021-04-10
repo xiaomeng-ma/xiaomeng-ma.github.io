@@ -27,7 +27,7 @@ Onnis, L., Truzzi, A., <b>Ma, X.</b>(2018). Language development and disorders: 
    <tr>
     <td>2021.4</td>
     <td><b>Ma,X.,</b> <i>Why No Double Objective Construction in Shupamem	</i>  at <a href = "https://lin.ufl.edu/51st-52nd-annual-conference-on-african-linguistics" style="color: red">ACAF 51-52</a>, Online</td>
-    <td><a href = "https://xiaomeng-ma.github.io/DALF21_paper_4.pdf" target = "_blank" style = "color: red">Abstract</a></td><td>🌀</td>
+    <td><a href = "https://xiaomeng-ma.github.io/Shupamem_ACAL.pdf" target = "_blank" style = "color: red">Handout</a></td><td>🌀</td>
     </tr>
   <tr>
     <td>2021.2</td>
