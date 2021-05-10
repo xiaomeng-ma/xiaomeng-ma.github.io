@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 <h1 style="color: red"> About Me </h1>
-<img class="col one right" src="/img/propic.JPG">
+<img class="col one right" src="/img/IMG_3936.jpg">
 <p><br/>
 My research areas mainly focus on language acquisition and NLP/NLU. It is intriguing how few data babies need in order to learn to speak; while with the whole wikipedia available we still can't train a machine to talk like a baby. I am interested in understanding the learning mechanism of human infants in order to improve data efficiency in neural network models. </p>
 
